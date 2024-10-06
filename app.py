@@ -77,7 +77,7 @@ def create_pdf(mcqs, filename):
 
 @app.route('/')
 def index():
-    return render_template('index.html')
+    return render_template('interface.html')
 
 @app.route('/generate', methods=['POST'])
 def generate_mcqs():

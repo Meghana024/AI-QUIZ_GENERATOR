@@ -1,4 +1,4 @@
-## Code Description
+**MCQ-GENERATOR**
 
 The MCQ Generator is implemented in Python using the Flask framework. The application provides an interface for users to upload documents and generates multiple-choice questions (MCQs) based on the content of those documents. Below is a breakdown of the key components and functionality of the code:
 
